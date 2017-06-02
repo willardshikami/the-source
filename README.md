@@ -1,2 +1,8 @@
 # the-source
-A list of JavaScript resources fitted beautifully into an app, you can filter to easily find what you are looking for.
+A growing list of JavaScript resources fitted beautifully into an app.
+Filter and easily find the resource you are looking for.
+
+The list of resources used on the app are from the following repositories:
+1. https://github.com/hongkongjs/resources
+2. https://github.com/sorrycc/awesome-javascript
+3. https://github.com/sindresorhus/awesome-nodejs
